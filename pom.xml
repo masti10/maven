@@ -27,6 +27,11 @@
     </dependency>
   </dependencies>
 
+    <scm>        
+    <connection>scm:svn:https://github.com/masti10/maven.git</connection>
+ <developerConnection>scm:svn:https://github.com/masti10/maven.git</developerConnection>
+    </scm>
+
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
