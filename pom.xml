@@ -27,7 +27,7 @@
     </dependency>
   </dependencies>
 
-    <scm>        
+<scm>        
     <connection>scm:svn:https://github.com/masti10/maven.git</connection>
  <developerConnection>scm:svn:https://github.com/masti10/maven.git</developerConnection>
     </scm>
